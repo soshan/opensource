@@ -1,0 +1,10 @@
+#ifndef RAPIDXML_SIMPLE_CONFIG_HPP_
+#define RAPIDXML_SIMPLE_CONFIG_HPP_
+
+
+
+
+
+
+
+#endif
